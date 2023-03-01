@@ -1,7 +1,21 @@
 {
   "published_at": "2023-02-27T14:22:35+0000",
-  "keys": [
-    "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5-cowboy",
-    "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3b-gproc"
-  ]
+  "keys": {
+    "aarm64-unknown-linux": [
+      "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
+      "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
+    ],
+    "x86_64-unknown-linux": [
+      "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
+      "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
+    ],
+    "aarm64-darwin-macos": [
+      "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
+      "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
+    ],
+    "x86_64-darwin-macos": [
+      "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
+      "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
+    ],
+  }
 }
