@@ -9,11 +9,11 @@
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
-    "aarch64-darwin-macos": [
+    "aarch64-apple-darwin": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
-    "x86_64-darwin-macos": [
+    "x86_64-aaple-darwin": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ]
