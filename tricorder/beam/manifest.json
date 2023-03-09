@@ -1,11 +1,11 @@
 {
   "published_at": "2023-03-01T21:09:32+00:00",
   "keys": {
-    "aarch64-unknown-linux": [
+    "aarch64-unknown-linux-gnu": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
-    "x86_64-unknown-linux": [
+    "x86_64-unknown-linux-gnu": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
