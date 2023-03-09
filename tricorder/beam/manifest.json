@@ -1,7 +1,7 @@
 {
   "published_at": "2023-03-01T21:09:32+00:00",
   "keys": {
-    "aarm64-unknown-linux": [
+    "aarch64-unknown-linux": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
@@ -9,7 +9,7 @@
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
-    "aarm64-darwin-macos": [
+    "aarch64-darwin-macos": [
       "891b44c762fd3f27f733ab2dc2875a687cb888c6761ee5605965ffe3e38606e5",
       "9b9d72450fec34e1f3bbf98f5dbe558aac24e188152ece10ae4094a8fad87a3bc"
     ],
